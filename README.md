@@ -1,5 +1,4 @@
 
-ChatGPT
 Project Name: GateMate: The Smart Vehicle Gateway
 Project Description:
 GateMate: The Smart Vehicle Gateway is an innovative, interactive gate system designed to automate access control with a touch of technology and fun. Motivated by the need for efficient, secure vehicle management in residential and commercial spaces, GateMate uses a combination of weight detection, distance measurement, and wireless communication to intelligently control gate access.
